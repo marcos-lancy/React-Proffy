@@ -4,6 +4,8 @@ import { Link } from 'react-router-dom';
 import logoImg from '../../assets/images/logo.png';
 import backIcon from '../../assets/images/icons/back.png';
 
+import './styles.css'
+
 interface PageHeaderProps{
    title: string;
 }

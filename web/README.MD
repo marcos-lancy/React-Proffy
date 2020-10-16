@@ -1,1 +1,0 @@
-video 02:07 < esquerda>
